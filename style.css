@@ -1,0 +1,180 @@
+#header-container {
+    background-image: url(./imagenes/bg-hero-hogar.jpg);
+    background-size: cover;
+    height: 75vh;
+}
+
+header {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    padding-left: 40px;
+    background-color: #2125296e;
+}
+
+h1 strong {
+    color: #db0011;
+}
+
+h1 {
+    padding-top: 150px;
+    font-size:50px;
+}
+
+#solicitar {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+ }
+
+.text-center {
+    text-align: center!important;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+h2 strong {
+    color: #db0011;
+}
+
+h3 {
+    font-size:1.75rem;
+    font-weight: 300;
+}
+
+body {
+    color: #212529;
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+container {
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: #db0011;
+}
+
+.btn {
+    border: none !important;
+    text-decoration: none !important;
+    margin-bottom: 5px;
+    border-radius: 3;
+    padding: 10px 30px;
+}
+
+footer {
+    background-color: #333333;
+    text-align: center;
+}
+
+#footer {
+    color: white;
+    padding-top: 50px;
+}
+
+footer a {
+    text-decoration: none;
+   color:#db0011;
+}
+
+#card-footer {
+    text-align: left;
+}
+
+#row {
+    text-align: center!important;
+    background-color: white;
+}
+
+footer p {
+    font-weight: 300;
+    color: white;
+}
+
+.legales {
+    margin-top: 60px;
+    padding-bottom: 40px;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+footer img {
+    width: auto;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+footer .iconos ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 9px;
+}
+
+section.imagen-centro {
+    height: 600px;
+    background-image: url(./imagenes/bg-parallax-m.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+}
+
+#btnn2 {
+    padding-bottom: 95px;
+}
+
+#conferencia {
+    padding-left: 450px;
+    color: white;
+}
+
+#oradores {
+    color: white;
+}
+
+#lugar {
+    color: white;
+}
+
+#orador {
+    color: white;
+}
+
+#ticket {
+    color: green;
+}
+
+#title {
+    padding-left: 20px;
+    color: white;
+}
